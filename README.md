@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="pika.webp">
+
 
 <!--
 **DryLeonhard/DryLeonhard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
