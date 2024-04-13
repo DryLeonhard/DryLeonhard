@@ -1,4 +1,4 @@
-<img src="pika.webp">
+<img src="peng-crop.webp">
 
 
 <!--
